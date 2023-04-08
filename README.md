@@ -1,4 +1,6 @@
 <a name="readme-top"></a>
+
+<div align='center'>
 <img src="200w.gif" alt="logo" width="140"  height="auto" />
 <br/>
 
@@ -30,9 +32,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [ToDo List] <a name="is about adding, updating and removing Books"></a>
+# 📖 [ BOOkstore ] <a name="is about adding, updating and removing Books"></a>
 
-**[Portfolio Project]** is based on HTML, CSS and Javascript, React.
+**[BOOkstore Project]** is based on HTML, CSS and Javascript, React.
 
 ## 🛠 Built With <a name="built-with"></a>
 
