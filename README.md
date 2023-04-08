@@ -1,4 +1,6 @@
 <a name="readme-top"></a>
+<img src="200w.gif" alt="logo" width="140"  height="auto" />
+<br/>
 
   <h3><b>Bookstore App in React</b></h3>
 
