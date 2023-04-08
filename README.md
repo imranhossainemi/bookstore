@@ -73,7 +73,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://bookstore-1y16.onrender.com/)
+- [Live Demo Link]-None
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,11 +91,11 @@ In order to run this project you need: HTML and CSS
 
 Clone this repository to your desired folder:
 
-git clone git@github.com:dheerajsachdeva/bookstore.git
+git clone https://github.com/imranhossainemi/bookstore.git
 
 ### Install
 
-Install this project with: by cloning git@github.com:dheerajsachdeva/bookstore.git
+Install this project with: by cloning https://github.com/imranhossainemi/bookstore.git
 
 ### Usage
 
@@ -107,7 +107,7 @@ To run tests, run the following command: npm run test
 
 ## Deployment
 
-You can deploy this project using: git@github.com:dheerajsachdeva/bookstore.git
+You can deploy this project using: https://github.com/imranhossainemi/bookstore.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
